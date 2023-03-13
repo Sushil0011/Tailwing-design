@@ -3,6 +3,7 @@ import Banner from './components/Banner'
 import Header from './components/Header'
 import Mid from './components/Mid'
 import { BrowserRouter as Router ,Routes,Route } from 'react-router-dom'
+import Footer from './components/Footer'
 const App = () => {
   return (
 
@@ -21,7 +22,7 @@ const App = () => {
 {/* </Router> */}
 <Banner/>
 <Mid/>
-
+<Footer/>
 </div>
 
 
