@@ -22,9 +22,6 @@ const Header = () => {
 }
         <ul className=' hidden md:flex gap-10 text-white text-xl'>
 
-          {/* <NavLinK to="#home" >Home</NavLinK> */}
-          {/* <NavLinK to="#about" >About</NavLinK> */}
-          {/* <NavLinK to="#contact" >Contact</NavLinK> */}
 
           <li>Home</li>
  <li>About</li>
